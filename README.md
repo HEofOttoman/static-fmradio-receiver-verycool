@@ -2,6 +2,8 @@
 I have given up on unique hardware project names
 
 ## Schematic
+![schematic](schematic.png)
+![pcb front](<Screenshot 2026-09-16 222115.png>)
 
 ## BOM
 Things in the kit (for my own reference)
