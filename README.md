@@ -9,7 +9,7 @@ A simple & 'compact' FM receiver
 ![pcb front](<PCB screenshot.png>)
 
 ### Case
-I tried getting a wood looking material but I don't know how to do that
+I tried getting a wood looking material but I don't know how to do that. [Onshape link](https://cad.onshape.com/documents/d116dc6652ebf1960d912e23/w/4509aea471f96bc38b5cdf53/e/2a97019c88efc150ac7c4dbc)
 ![alt text](image.png)![alt text](image-1.png)![alt text](image-2.png)![alt text](image-3.png)
 
 ## BOM
