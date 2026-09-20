@@ -1,9 +1,16 @@
 # static-fmradio-receiver
-I have given up on unique hardware project names
+~~I have given up on unique hardware project names~~
+![assembly](assembly.png)
 
-## Schematic
+A simple & 'compact' FM receiver
+
+### Schematic
 ![schematic](schematic.png)
-![pcb front](<Screenshot 2026-09-16 222115.png>)
+![pcb front](<PCB screenshot.png>)
+
+### Case
+I tried getting a wood looking material but I don't know how to do that
+![alt text](image.png)![alt text](image-1.png)![alt text](image-2.png)![alt text](image-3.png)
 
 ## BOM
 Things in the kit (for my own reference)
