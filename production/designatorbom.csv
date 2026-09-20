@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1, C2, C3";"CP_Radial_D6.3mm_P2.50mm";3;"100uF";;;
+2;"C4, C5 470uF";"CP_Radial_D6.3mm_P2.50mm";2;"470uF";;;
+3;"CN1";"AUDIO-TH_PJ-3200";1;"PJ-3200";;;
+4;"R1, R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"10K";;;
+5;"RV1, RV2";"PinHeader_1x03_P2.54mm_Vertical";2;"R_Potentiometer 10K";;;
+6;"SPK1";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02 (SPKR_R)";;;
+7;"SPK2";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02 (SPKR_L)";;;
+8;"SW1, SW2";"PinHeader_1x02_P2.54mm_Vertical";2;"SW_Push";;;
+9;"U1";"RDA5807";1;"RDA5807MRRD-102V2.0";;;
+10;"U2";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+11;"U3";"DIP-8_W7.62mm";1;"TDA2822NBD";;;
